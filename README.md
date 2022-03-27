@@ -1,12 +1,12 @@
 # Purpose
 
-The project is to aggregate and analyse data on student funding and student standardised test scores for a School district to demonstrate trends that can guide to support strategic decision making at School Board. 
-While the initial analysis has been done my Maria, chief data scientist for a City school district, case of potential academic dishonesty by the ninth grade students of Thomas High School is suspected. So the analysis needs to be repeated excluding the scores of the 9th grade students at Thomas High School.
+The project is to aggregate and analyse data on student funding and student standardised test scores for a School district to demonstrate trends that can support strategic decision making at School Board. 
+While the initial analysis has been done my Maria, Chief data scientist for a City school district, case of potential academic dishonesty by the ninth grade students of Thomas High School is suspected. So the analysis needs to be repeated excluding the scores of the 9th grade students at Thomas High School.
 
 # Results
-Removing the 9th grade scores for Thomas High school did not have any major impact on the school metrics. Below is the snapshot of initial as well as revised analysis.
+Removing the 9th grade scores for Thomas High school did not have any major impact on the school metrics. Below is the snapshot how various paraters have been impacted:
 ## How is the district summary affected?
-District summary is hardly affected with % students passing both math and reading decreasing by 0.3%.All other parameters also see only a small change of change in range of 0.1 -0.2%. Average Math Score is down by 0.1, Average Reading saw no change, % of students Passing Math decreased 0.2% and the percentage of students Passing Reading increased by .1%..  Below are the original and revised summaries (respectively)
+At district level, overall passing % of i.e.students passing both math and reading decreased by 0.3%. Average Math Score is down by 0.1, Average Reading saw no change, % of students Passing Math decreased 0.2% and the percentage of students Passing Reading increased by .1%. Below are the original and revised summaries (respectively)
 
 ![image](https://user-images.githubusercontent.com/98617082/160246790-cdcc801e-2639-43ba-a3bc-c5d46b0bd232.png)
 ![image](https://user-images.githubusercontent.com/98617082/160245299-f8fa4a12-45b1-4649-be8f-cc59bacbe964.png)
@@ -48,7 +48,7 @@ No impact on performance date in the revised analysis. Score, pass percentages r
 ![image](https://user-images.githubusercontent.com/98617082/160246573-f45139f2-ae2f-4f18-a0ab-7ff9890f5351.png)
 
 # Summary
-Removing the 9th graders test scores did not greatly affect the scores over the whole district or the school. Below are some of the more promonent changes
+Removing the 9th graders test scores did not greatly affect the scores over the whole district or the school. Below are some of the more prominent changes:
 
 *Overall passing score for district decreased by 0.3%.
 *Average Math Score for district is down by 0.1
