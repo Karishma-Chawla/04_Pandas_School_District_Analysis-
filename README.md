@@ -50,14 +50,14 @@ No impact on performance date in the revised analysis. Score, pass percentages r
 # Summary
 Removing the 9th graders test scores did not greatly affect the scores over the whole district or the school. Below are some of the more prominent changes:
 
-*Overall passing score for district decreased by 0.3%.
-*Average Math Score for district is down by 0.1
+* Overall passing score for district decreased by 0.3%.
+* Average Math Score for district is down by 0.1
 * Overall % student passing both sujects for Thomas High School fell by 0.3% to 90.6%. 
 * Average Reading Score for Thomas High School increased by .05,
 
 
 
-#Resources
+# Resources
 •	Data Source: schools_complete.csv
 •	Data Source: students_complete.csv
 •	Sofware: Jupyter Notebook 
