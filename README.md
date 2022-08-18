@@ -1,6 +1,8 @@
 # Purpose
-
 Analysis on school district performance using Jupyter Notebook with Python, Pandas Library and Numpy library.
+
+<img width="920" alt="SD2" src="https://user-images.githubusercontent.com/98617082/185482206-f93c0efa-df56-4542-a154-5fce3c4ef712.png">
+
 
 The project is to aggregate and analyse data on student funding and student standardised test scores for a School district to demonstrate trends that can support strategic decision making at School Board. 
 While the initial analysis has been done my Maria, Chief data scientist for a City school district, case of potential academic dishonesty by the ninth grade students of Thomas High School is suspected. So the analysis needs to be repeated excluding the scores of the 9th grade students at Thomas High School.
