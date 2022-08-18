@@ -1,5 +1,5 @@
-# Purpose
-Using Python and Pandas, aggregate and analyse data on student funding and student standardised test scores for a School district to demonstrate trends that can support strategic decision making at School Board. 
+# Objective
+Support strategic decision making at School Board by analyzing data on student funding and student standardised test scores. 
 
 <img width="920" alt="SD2" src="https://user-images.githubusercontent.com/98617082/185482206-f93c0efa-df56-4542-a154-5fce3c4ef712.png">
 
