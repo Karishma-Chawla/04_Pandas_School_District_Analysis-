@@ -1,5 +1,5 @@
 # Purpose
-Using Python and Pandas, evaluate schhol performance by comparing Math & Reading Testing Scores
+Using Python and Pandas, evaluate school performance by comparing Maths & Reading Scores
 
 <img width="920" alt="SD2" src="https://user-images.githubusercontent.com/98617082/185482206-f93c0efa-df56-4542-a154-5fce3c4ef712.png">
 
