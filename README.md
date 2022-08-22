@@ -3,6 +3,12 @@ Support strategic decision making at School Board by analyzing data on student f
 
 <img width="920" alt="SD2" src="https://user-images.githubusercontent.com/98617082/185482206-f93c0efa-df56-4542-a154-5fce3c4ef712.png">
 
+# Data
+Data set includes 2 CSV files including 1. Information on students like gender,grades,Math/English scores and 2. Information on school like Name, Type, size and budget.
+
+(Size:2223 KB)
+![image](https://user-images.githubusercontent.com/98617082/186001939-f4ce1898-1674-490e-9655-a531d06ea7b8.png)
+
 
 While the initial analysis has been done my Maria, Chief data scientist for a City school district, case of potential academic dishonesty by the ninth grade students of Thomas High School is suspected. So the analysis needs to be repeated excluding the scores of the 9th grade students at Thomas High School.
 
